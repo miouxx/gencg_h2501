@@ -52,7 +52,7 @@ It instantly gave me an impression of depth and caught my attention. So i develo
 
 And this is what I came up with in p5js:
 
-<iframe src="https://editor.p5js.org/miouxx/full/Np3YNGJi8" width="100%" height="400" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/miouxx/full/lA770YFBD" width="100%" height="800" frameborder="no"></iframe>
 
 ### Third Lecture
 
@@ -61,13 +61,7 @@ When time came up, I immediately thought about Dr. Strange from the Marvel unive
 
 ![Doctor-Strange_time_manip](https://github.com/user-attachments/assets/d8a04718-14ff-4e70-9a4d-ce0f47fb3a3a) ![sketch-project3](https://github.com/user-attachments/assets/796f9e03-5d7d-4b56-bcba-85180511ff4a)
 
+Once this was figured out I went to ChatGPT and implemented every figure one after another to not confuse it too much. After multiple iterations this is what my result looks like:
 
+<iframe src="https://editor.p5js.org/miouxx/full/8dBQ62H0V" width="100%" height="800" frameborder="no"></iframe>
 
-
-{% raw %}
-<iframe src="content/day01/03/embed.html" width="100%" height="450" frameborder="no"></iframe>
-{% endraw %}
-
-* Lorem ipsum dolor sit amet
-* Consetetur sadipscing elitr, sed diam nonumy.
-* At vero eos et accusam et justo duo dolores et ea rebum. 
