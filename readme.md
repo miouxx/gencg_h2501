@@ -6,7 +6,7 @@
 
 We started by getting some inspiration by professional artists and iconic art, to get a feeling on what we can expect. Also we were already able to start our very own small little project in the p5.js editor, which you can find below. I started with something simple and tried to sketch out a snowman out of some very simple shapes like circles and a triangle for the nose. It worked pretty well and I got the hang of it quickly, so the snowman was not the biggest challenge but a great little start.
 
-<<iframe src="https://editor.p5js.org/miouxx/full/Np3YNGJi8" width="100%" height="800" frameborder="no"></iframe>
+<iframe src="https://editor.p5js.org/miouxx/full/Np3YNGJi8" width="100%" height="800" frameborder="no"></iframe>
 
 The code that was used was mostly from the p5.js references page where the simple shapes were described simple but effective.
 This is how the snowman looks in code:
@@ -44,7 +44,7 @@ function draw() {
 
 In this lecture, we already went further than just playing around like in the first lecture. It was about grids and patterns. This core principle of generative arts is really important and one example that was shown sparked my interest. This one:
 
-<img src="![pattern05](https://github.com/user-attachments/assets/04003220-f4b5-4f4a-af77-3e7c5f95cb5e)" width="400">
+![pattern05](https://github.com/user-attachments/assets/04003220-f4b5-4f4a-af77-3e7c5f95cb5e)
 
 It instantly gave me an impression of depth and caught my attention. So i developed it abit and came to something with a similar pattern, the multiple circles overlayed over eachother gave me a vibe of water and waves. This was my sketch for it:
 
