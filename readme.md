@@ -7,15 +7,15 @@ This project documents my learning process, experiments, and reflections as part
 
 ## Explore the Entries
 
-- [Week 1 – Getting Started with p5.js](gencg_h2501\Week_01.md)
+- [Week 1 – Getting Started with p5.js](\Week_01.md)
 
   Learning the basics through simple geometric compositions.
 
-- [Week 2 – Grids, Patterns & Repetition](gencg_h2501\Week_02.md)
+- [Week 2 – Grids, Patterns & Repetition](\Week_02.md)
 
   Exploring rhythm, density, and interaction in generative design.
 
-- [Week 3 – Time as a Creative System](gencg_h2501\Week_03.md)
+- [Week 3 – Time as a Creative System](\Week_03.md)
 
   Translating the passing of time into visual motion and structure.
 

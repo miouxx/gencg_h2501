@@ -4,11 +4,11 @@
 
 This lecture introduced time as a parameter. I immediately thought of Doctor Strange and how he manipulates time visually. I wanted to translate that glowing circular motion into a clock system.
 
-<img src="content\Week_03\Doctor-Strange_time_manip.gif" width="48%"> <img src="content\Week_03\sketch-project3.jpg" width="48%">
+<img src="content\Week_03\Doctor-Strange_time_manip.gif" width="100%"> <img src="content\Week_03\sketch-project3.jpg" width="48%">
 
 Once this was figured out I went to ChatGPT and implemented every figure one after another to not confuse it too much. After multiple iterations this is what my result looks like:
 
-<iframe src="content\Week_03\01\sketch.js" width="100%" height="800" frameborder="no"></iframe>
+<iframe src="content\Week_03\01\embed.html" width="100%" height="800" frameborder="no"></iframe>
 
 ## Influences & References
 
