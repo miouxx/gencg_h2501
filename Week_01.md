@@ -2,7 +2,7 @@
 
 We started by getting some inspiration by professional artists and iconic art, to get a feeling on what we can expect. Also we were already able to start our very own small little project in the p5js editor, which you can find below. I started with something simple and tried to sketch out a snowman out of some very simple shapes like circles and a triangle for the nose. It worked pretty well and I got the hang of it quickly, so the snowman was not the biggest challenge but a great little start.
 
-<iframe src="content\Week_01\01\embed.html" width="50%" height="400" frameborder="no"></iframe>
+<iframe src="content\Week_01\01\embed.html" width="400" height="400" frameborder="no"></iframe>
 
 The main challenge was positioning elements precisely and managing proportions. After some trial and error with coordinates, I got a clean and balanced composition.
 
