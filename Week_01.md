@@ -52,4 +52,3 @@ My system here is rule-based:
 ## Critical Reflection
 
 This first experiment helped me understand coordinate logic and layering. It wasn’t challenging artistically, but it established a good workflow: sketch → code → adjust.
-Next time, I want to move beyond static shapes toward pattern and repetition.

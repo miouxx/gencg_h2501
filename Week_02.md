@@ -4,13 +4,11 @@
 
 This week focused on grids and patterns, which are essential in generative art. I was drawn to the illusion of depth in the example shown during the lecture (image below).
 
-<iframe src="content\Week_02\pattern05.jpg" width="100%" height="400" frameborder="no"></iframe>
+<iframe src="content\Week_02\pattern05.jpg" width="50%" height="400" frameborder="no"></iframe>  <iframe src="content\Week_02\sketch-project2.jpg" width="50%" height="400" frameborder="no"></iframe>
 
 I experimented with overlapping circles and transparency to simulate a water-like effect. To make the pattern more alive, I added interactivity: circles appear dynamically, like raindrops disturbing water.
 
-![sketch-project2](https://github.com/user-attachments/assets/f055e24d-fde7-43a6-adde-17cc4de3592d)
-
-<iframe src="content\Week_02\01\sketch.js" width="50%" height="800" frameborder="no"></iframe>
+<iframe src="content\Week_02\01\embed.html" width="50%" height="800" frameborder="no"></iframe>
 
 ## Influences & References
 
@@ -25,3 +23,17 @@ System rules:
 - Vary radius slightly per frame to simulate motion
 
 - On mouse click, spawn new circles at cursor (raindrops)
+
+## Pseudocode
+
+```js
+for each circle:
+  if mousePressed → create new wave
+  radius = base + sin(frameCount * speed)
+  draw with low opacity
+```
+
+## Critical Reflection
+
+I liked the subtle motion and how small changes in opacity created depth. However, performance dropped when too many circles spawned.
+Next week, we’ll explore using time more efficiently, possibly linking motion to system time instead of interaction alone.
