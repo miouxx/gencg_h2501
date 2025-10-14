@@ -4,13 +4,13 @@
 
 This week focused on grids and patterns, which are essential in generative art. I was drawn to the illusion of depth in the example shown during the lecture (image below).
 
-![pattern05](https://github.com/user-attachments/assets/04003220-f4b5-4f4a-af77-3e7c5f95cb5e)
+<iframe src="content\Week_02\pattern05.jpg" width="100%" height="400" frameborder="no"></iframe>
 
 I experimented with overlapping circles and transparency to simulate a water-like effect. To make the pattern more alive, I added interactivity: circles appear dynamically, like raindrops disturbing water.
 
 ![sketch-project2](https://github.com/user-attachments/assets/f055e24d-fde7-43a6-adde-17cc4de3592d)
 
-<iframe src="https://editor.p5js.org/miouxx/full/lA770YFBD" width="100%" height="800" frameborder="no"></iframe>
+<iframe src="content\Week_02\01\sketch.js" width="50%" height="800" frameborder="no"></iframe>
 
 ## Influences & References
 
