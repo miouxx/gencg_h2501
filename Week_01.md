@@ -1,8 +1,11 @@
-# First lecture
+# Week 01 - Intro
 
 We started by getting some inspiration by professional artists and iconic art, to get a feeling on what we can expect. Also we were already able to start our very own small little project in the p5js editor, which you can find below. I started with something simple and tried to sketch out a snowman out of some very simple shapes like circles and a triangle for the nose. It worked pretty well and I got the hang of it quickly, so the snowman was not the biggest challenge but a great little start.
 
 <iframe src="https://editor.p5js.org/miouxx/full/Np3YNGJi8" width="100%" height="400" frameborder="no"></iframe>
+
+<iframe src="content\Week_01\01\embed.html" width="100%" height="400" frameborder="no"></iframe>
+
 
 The main challenge was positioning elements precisely and managing proportions. After some trial and error with coordinates, I got a clean and balanced composition.
 
@@ -43,11 +46,11 @@ I was inspired by minimal character designs such as early vector art and childre
 
 My system here is rule-based:
 
-Use only basic primitives (circle, rect, triangle)
+- Use only basic primitives (circle, rect, triangle)
 
-Stack shapes vertically
+- Stack shapes vertically
 
-Maintain symmetry on the x-axis
+- Maintain symmetry on the x-axis
 
 ## Critical Reflection
 
