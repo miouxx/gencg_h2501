@@ -20,12 +20,11 @@ Try it out yourself! This is with σ = 5 and you can already feel how hard it is
 
 ## Influences & References
 
-This piece draws from Vera Molnár’s exploration of rule-based disruption and Georg Nees’ early algorithmic drawings, where systems intentionally break order.
-I was also inspired by Anders Hoff (Inconvergent), who often uses Gaussian functions to build complexity from minimal rules.
+This piece draws from Vera Molnár’s exploration of rule-based disruption (left image) and Georg Nees’ early algorithmic drawings, where systems intentionally break order.
+I was also inspired by Anders Hoff (Inconvergent), who often uses Gaussian functions to build complexity from minimal rules (right image).
 The project connects to a broader idea: how mathematics can generate unexpected emotion when precision is deliberately destabilized.
 
-<img src="content\Week_04\week4-veramolnar.png" width="40%"> <img src="content\Week_04\week4-anders.png" width="60%">
-Vera Molnár                                      Anders Hoff
+<img src="content\Week_04\week4-veramolnar.png" width="48%"> <img src="content\Week_04\week4-anders.png" width="48%">
 
 ## Algorithmic Thinking
 
