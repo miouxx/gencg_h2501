@@ -19,6 +19,11 @@ This project documents my learning process, experiments, and reflections as part
 
   Translating the passing of time into visual motion and structure.
 
+- [Week 4 – Gaussian Faces & Controlled Chaos](/Week_04.md)
+
+  Exploring how mathematical variance transforms structure into expressive abstraction.
+  
+
 ## Tools & Technologies
 
 p5.js
