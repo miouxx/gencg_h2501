@@ -24,7 +24,8 @@ This piece draws from Vera Molnár’s exploration of rule-based disruption and 
 I was also inspired by Anders Hoff (Inconvergent), who often uses Gaussian functions to build complexity from minimal rules.
 The project connects to a broader idea: how mathematics can generate unexpected emotion when precision is deliberately destabilized.
 
-<img src="content\Week_04\week4-veramolnar.png" width="48%"> <img src="content\Week_04\week4-anders.png" width="48%">
+<img src="content\Week_04\week4-veramolnar.png" width="40%"> <img src="content\Week_04\week4-anders.png" width="60%">
+Vera Molnár                                      Anders Hoff
 
 ## Algorithmic Thinking
 
