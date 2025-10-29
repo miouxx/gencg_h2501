@@ -19,7 +19,7 @@ Rather than simply changing the expression, the emotion directly influences the 
 This way, the face doesn’t just look angry — it becomes angry at a geometric level.
 It’s both interactive and performative: emotion reshapes the entire system.
 
-<iframe src="content\Week_05\01\embed.html" width="100%" height="800" frameborder="no"></iframe>
+<iframe src="content\Week_05\01\embed.html" width="100%" height="700" frameborder="no"></iframe>
 
 ## Influences & References
 
