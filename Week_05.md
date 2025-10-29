@@ -19,7 +19,7 @@ Rather than simply changing the expression, the emotion directly influences the 
 This way, the face doesn’t just look angry — it becomes angry at a geometric level.
 It’s both interactive and performative: emotion reshapes the entire system.
 
-<iframe src="content\Week_05\01\embed.html" width="100%" height="400" frameborder="no"></iframe>
+<iframe src="content\Week_05\01\embed.html" width="100%" height="800" frameborder="no"></iframe>
 
 ## Influences & References
 
@@ -28,7 +28,7 @@ In this series, Dörfelt explores how algorithmic systems can produce portraits 
 
 A second inspiration was Sougwen Chung, who collaborates with drawing robots to study how emotion and gesture can be shared between human and machine.
 
-<img src="content\Week_05\weirdfacesmatthiasdörfelt.png" width="48%"> <img src="content\Week_05\SougwenChungRobots.png" width="48%">
+<img src="content\Week_05\weirdfacesmatthiasdörfelt.png" width="48%"> <img src="content\Week_05\SougwenChungRobots.png" width="51%">
 
 Both artists approach emotion not as a fixed output but as a dynamic, evolving process — exactly what I wanted to translate into code.
 
