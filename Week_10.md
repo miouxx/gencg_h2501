@@ -21,7 +21,7 @@ Each frame re-interprets the webcam through controlled randomness.
 But in the end, I wasn’t satisfied with the glitch project alone.
 It felt expressive, but not purposeful enough. The randomness dominated the structure, and the aesthetic wasn’t as visually legible as I wanted.
 
-<iframe src="content\Week_06\01\embed.html" width="100%" height="700" frameborder="no"></iframe>
+<iframe src="content\Week_06\01\embed.html" width="90%" height="400" frameborder="no"></iframe>
 
 ### Project 2 — Spiral Pixel Warp (Parametric Distortion Field)
 
@@ -41,7 +41,7 @@ To enhance control, I added a slider that adjusts the swirl intensity in real ti
 The resulting system feels more deliberate and sculptural.
 Instead of chaotic interference, the webcam image moves like a liquid geometry field — bending into a spiral while keeping its colors and recognizability.
 
-<iframe src="content\Week_06\02\embed.html" width="100%" height="700" frameborder="no"></iframe>
+<iframe src="content\Week_06\02\embed.html" width="90%" height="400" frameborder="no"></iframe>
 
 ## Influences & References
 
@@ -50,13 +50,15 @@ My references for these projects are rooted in two visual worlds:
 Glitch Art & Signal Interference
 Inspired by digital decay aesthetics, corrupted VHS signals, and RGB tears — the kind of visual language where technology becomes expressive by breaking.
 
+<img src="content\Week_06\tvscreen.jpg" width="50%"> <img src="content\Week_06\cyberpunk.gif" width="50%">
+
 Generative Graphic Systems (Halftone & Polar Transformations)
 Spiral halftone patterns and geometric distortions found in graphic design were a direct inspiration for the second project.
 These references helped me transition from chaotic randomness to structured manipulation.
 
 Both approaches treat the webcam not as a “camera” but as a dynamic dataset for transformation.
 
-<img src="content\Week_06\tvscreen.jpg" width="33%"> <img src="content\Week_06\cyberpunk.gif" width="33%"> <img src="content\Week_06\spiral.png" width="33%">
+<img src="content\Week_06\spiral.png" width="50%">
 
 ## Algorithmic Thinking
 
