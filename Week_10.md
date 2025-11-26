@@ -41,7 +41,7 @@ To enhance control, I added a slider that adjusts the swirl intensity in real ti
 The resulting system feels more deliberate and sculptural.
 Instead of chaotic interference, the webcam image moves like a liquid geometry field — bending into a spiral while keeping its colors and recognizability.
 
-<iframe src="content\Week_06\02\embed.html" width="80%" height="500" frameborder="no"></iframe>
+<iframe src="content\Week_06\02\embed.html" width="80%" height="550" frameborder="no"></iframe>
 
 ## Influences & References
 
