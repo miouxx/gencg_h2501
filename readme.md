@@ -23,9 +23,13 @@ This project documents my learning process, experiments, and reflections as part
 
   Exploring how mathematical variance transforms structure into expressive abstraction.
 
-- [Week 5 – Parametric Faces](/Week_05.md)
+- [Week 6 – Parametric Faces](/Week_05.md)
 
   Building an interactive system where emotion transforms geometry, style, and mood in real time.
+
+- [Week 10 - Pixels](/Week_10.md)
+
+  Experimenting with Webcam-input and pixelisation.
   
 
 ## Tools & Technologies

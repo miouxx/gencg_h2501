@@ -1,4 +1,4 @@
-# Week 5 - Parametric Faces
+# Week 6 - Parametric Faces
 
 ## Exploration & Experimentation
 
