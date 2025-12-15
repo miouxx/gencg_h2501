@@ -1,4 +1,4 @@
-# Week 3 – Time as a Creative System
+# Week 03 – Time as a Creative System
 
 ## Exploration & Experimentation
 
