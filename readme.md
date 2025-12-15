@@ -30,6 +30,10 @@ This project documents my learning process, experiments, and reflections as part
 - [Week 10 - Pixels](/Week_10.md)
 
   Experimenting with Webcam-input and pixelisation.
+
+- [Reflection](/Reflection.md)
+
+  What I learned this semester.
   
 
 ## Tools & Technologies
