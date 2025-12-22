@@ -59,7 +59,7 @@ The final project is a split screen system that shows the same motion in two vis
 
 On the right, the same orbital phases are translated into a black and white “atom” drawing. Instead of displaying perfect orbit curves, the moving bodies act like pencils and deposit very thin, low opacity strokes onto a persistent ink layer. Over time, repeated passes naturally darken and thicken the same paths, so the image is created through duration and repetition rather than being revealed instantly.
 
-<iframe src="content\Final Project\01\embed.html" width="100%" height="800" frameborder="no"></iframe>
+<iframe src="content\Final_Project\01\embed.html" width="100%" height="800" frameborder="no"></iframe>
 
 ## Influences & References
 
