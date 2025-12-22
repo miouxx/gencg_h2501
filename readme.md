@@ -31,6 +31,10 @@ This project documents my learning process, experiments, and reflections as part
 
   Experimenting with Webcam-input and pixelisation.
 
+- [Final Project](/Final_Project.md)
+
+  My final project. From Exploration to what Influenced me.
+
 - [Reflection](/Reflection.md)
 
   What I learned this semester.
