@@ -45,8 +45,8 @@ let satellites = [
 let orbitStates = []; // one per satellite + moon
 
 function preload() {
-  earthTex = loadImage("earthmap.jpg");
-  moonTex  = loadImage("moonmap.jpg");
+  earthTex = loadImage("EarthMap.jpg");
+  moonTex  = loadImage("MoonMap.jpg");
 }
 
 function setup() {
