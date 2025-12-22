@@ -65,7 +65,7 @@ On the right, the same orbital phases are translated into a black and white “a
 
 This project sits between two visual languages, scientific visualisation and symbolic diagram. The main influence was the “atom” icon / orbital diagram style (black nucleus, clean elliptical paths, minimal black and white). I used it because it communicates a system instantly, even if the viewer doesn’t understand the details. It also gave me permission to simplify and exaggerate geometry on the right side without pretending it’s fully accurate.
 
-<img src="content\Final Project\AtomIcon.jpeg" width="30%"><img src="content\Final Project\accumulation.gif" loop=infinite width="30%"><img src="content\Final Project\NebulaRef.jpg" width="30%" height="551">
+<img src="content\Final Project\AtomIcon.jpeg" width="30%"><img src="content\Final Project\accumulation.gif" loop=infinite width="30%"><img src="content\Final Project\NebulaRef.jpg" width="30%">
 
 A second influence came indirectly from generative drawing approaches where the image is created through time, not revealed in one frame. The key idea I borrowed is accumulation: repeated marks with low opacity build texture and density over time. That’s what makes the 2D panel feel less like a UI graphic and more like a drawing machine. I found this cool artpiece on Pinterest:
 
