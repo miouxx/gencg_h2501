@@ -6,7 +6,7 @@ This project went through a pretty clear shift, from abstract generative “orbi
 
 
 Iteration 1, Multi center orbit network (too many focal points)
-<video src="content\Final Project\FirstIteration.mp4" controls width="600"></video>
+<video src="content\Final_Project\FirstIteration.mp4" controls width="600"></video>
 
 
 I started with a “city of orbits” approach: multiple centers, satellites moving around them, and lines connecting moving points so a network emerges. The result looked delicate and alive, but it had a big problem, it was hard to read as a system. There were too many focal points and the logic was hidden behind the visual noise. The failure here was not technical, it was conceptual, it looked like generative decoration rather than a coherent idea.
@@ -14,7 +14,7 @@ I started with a “city of orbits” approach: multiple centers, satellites mov
 What it influenced next: I reduced the number of groups and pushed for a more unified composition.
 
 Iteration 2, Single orbit web (stronger aesthetics, still unclear meaning)
-<video src="content\Final Project\SecondIteration.mp4" controls width="600"></video>
+<video src="content\Final_Project\SecondIteration.mp4" controls width="600"></video>
 
 
 Here I collapsed the complexity into one main structure. The ribbons and mesh became more coherent and “designed,” less like scattered clusters. Visually it was a big improvement, but it still didn’t communicate what the system actually was. It felt like a nice abstract shader, but it was missing an anchor, something the viewer can recognize and use as a reference for motion and time.
@@ -22,7 +22,7 @@ Here I collapsed the complexity into one main structure. The ribbons and mesh be
 What it influenced next: I realized I needed a recognizable object and a claim the project can stand on, that’s where the globe direction started.
 
 Iteration 3, First globe prototype (readable, but messy atmosphere)
-<video src="content\Final Project\ThirdIteration.mp4" controls width="600"></video>
+<video src="content\Final_Project\ThirdIteration.mp4" controls width="600"></video>
 
 
 This was the first “Earth in space” prototype. It introduced a clear subject, a sphere, orbits, and a sense of scale. But it also brought new issues: the blue smoke effect made the scene feel muddy and random, the grid overlay looked like a placeholder rather than a deliberate choice, and the composition still wasn’t stable enough. Even though it looked cool, it didn’t look intentional yet.
@@ -30,7 +30,7 @@ This was the first “Earth in space” prototype. It introduced a clear subject
 What it influenced next: I focused on readability first, fixed camera, cleaner background, more controlled orbit visuals.
 
 Iteration 4, Cleaner simulation (better composition, still too “demo”)
-<video src="content\Final Project\FourthIteration.mp4" controls width="600"></video>
+<video src="content\Final_Project\FourthIteration.mp4" controls width="600"></video>
 
 
 This iteration improved the core simulation feel. The camera and scale were more stable, the starfield was cleaner, the orbit rings were readable, and the system started to look like something you can actually observe. The remaining weakness was that it still looked like a generic simulation, the grid overlay kept it in a “technical visualisation” vibe, not an artistic one.
@@ -38,7 +38,7 @@ This iteration improved the core simulation feel. The camera and scale were more
 What it influenced next: I tried to add more atmosphere and personality, which immediately led to the biggest visual failure.
 
 Iteration 5, Gaussian background experiment (failure, it destroys readability)
-<video src="content\Final Project\FifthIteration.mp4" controls width="600"></video>
+<video src="content\Final_Project\FifthIteration.mp4" controls width="600"></video>
 
 
 I tried to go “more artistic” by adding large translucent splat shapes as a kind of nebula or milky way background. This was the clearest failure in the process. The background became the main subject and completely overwhelmed the scene. It also broke scale perception, it made the Earth feel small and lost, and in some moments it even covered the system you’re supposed to watch. This experiment was important because it proved that “more visuals” is not the same as “more meaning.”
@@ -46,7 +46,7 @@ I tried to go “more artistic” by adding large translucent splat shapes as a 
 What it influenced next: I stripped the background back down and committed to negative space and clarity.
 
 Iteration 6, Final world sim base (minimal background, controlled lighting, UI)
-<video src="content\Final Project\SixthIteration.mp4" controls width="600"></video>
+<video src="content\Final_Project\SixthIteration.mp4" controls width="600"></video>
 
 
 This is the clean version that I kept. The background stays quiet, the orbit rings and satellites are readable, and lighting is warm and directional so the Earth feels like it has a day and night side. Adding the speed slider also turned the system into something you can “play” rather than just watch. The main insight here is that the simulation looks better when the design decisions are subtractive, fewer effects, more structure.
@@ -71,7 +71,7 @@ On the right, the same orbital phases are translated into a black and white “a
 
 This project sits between two visual languages, scientific visualisation and symbolic diagram. The main influence was the “atom” icon / orbital diagram style (black nucleus, clean elliptical paths, minimal black and white). I used it because it communicates a system instantly, even if the viewer doesn’t understand the details. It also gave me permission to simplify and exaggerate geometry on the right side without pretending it’s fully accurate.
 
-<img src="content\Final Project\AtomIcon.jpeg" width="30%"><img src="content\Final Project\accumulation.gif" loop=infinite width="30%"><img src="content\Final Project\NebulaRef.jpg" width="30%">
+<img src="content\Final_Project\AtomIcon.jpeg" width="30%"><img src="content\Final_Project\accumulation.gif" loop=infinite width="30%"><img src="content\Final_Project\NebulaRef.jpg" width="30%">
 
 A second influence came indirectly from generative drawing approaches where the image is created through time, not revealed in one frame. The key idea I borrowed is accumulation: repeated marks with low opacity build texture and density over time. That’s what makes the 2D panel feel less like a UI graphic and more like a drawing machine. I found this cool artpiece on Pinterest:
 
